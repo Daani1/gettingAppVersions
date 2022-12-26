@@ -1,0 +1,51 @@
+App and Current Versions:
+RCoB - Zoom 5.12.9
+RCoB - NetLogo 6.3.0
+RCoB - JabRef 5.8
+RCoB - R-Studio 2022.12.0-353
+RCoB - Lingo 20.0
+RCoB - Zotero 6.0.18
+RCoB - CyberDuck 8.5.2.38799
+RCoB - AnyLogic PLE 8.8.1
+RCoB - Mendeley Desktop 2.80.1
+RCoB - IrfranView 4.62
+RCoB - Adobe Digital Editions 4.5
+RCoB - mmhmm 2.0.2256
+RCoB - jamovi 2.3.21
+RCoB - RapidMiner 10.0.0
+RCoB - 7-zip 22.01
+RCoB - MorningStar Direct 4.7.0
+RCoB - mySQL WorkBench 8.0.31
+RCoB - EmEditor 22.1.2
+RCoB - ORA-LITE 3.0.9.9.142
+RCoB - Ditto Connect 1.10.1
+RCoB - Any Video Converter 7.1.5
+RCoB - GMetrix SMSe 7.0.27
+RCoB - Microsoft PowerBi 2.112.283.0
+RCoB - Tableau 2022.4
+RCoB - QGIS-OSGeo4W 3.16.5-2
+RCoB - Google Earth 7.3.6
+RCoB - Duet Display 2.3.6.3
+RCoB - WinSCP 5.21.6
+RCoB - Audacity 3.2.2
+RCoB - Audacity 28.2
+RCoB - IPEVO Visualizer 3.2.0.4
+RCoB - IPEVO CamControl 1.5.1.2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
